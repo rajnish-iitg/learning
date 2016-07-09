@@ -1,0 +1,221 @@
+
+curriculum
+SECTION 1 Getting Started
+
+    Lecture 1:
+    Introduction
+    03:58 
+    Lecture 2:
+    Setting Up Your System
+    06:58 
+    Lecture 3:
+    A "Hello World" Servlet
+    07:18 
+    Lecture 4:
+    A "Hello World" JSP (Java Server Page)
+    09:53 
+    Lecture 5:
+    Deployment Descriptors: the Web.xml File
+    15:01 
+    Lecture 6:
+    Deploying Your Application to a Local Server
+    07:17 
+    Lecture 7:
+    Deploying Your Application to the Internet -- For Free
+    10:36 
+
+SECTION 2 Nuts and Bolts
+
+    Lecture 8:
+    Importing Java Classes Into JSPs
+    09:15 
+    Lecture 9:
+    Getting URL Parameters
+    11:15 
+    Lecture 10:
+    Scripting HTML
+    08:05 
+    Lecture 11:
+    Including Files In Other Files
+    18:38 
+    Lecture 12:
+    Forwarding and Redirecting
+    08:15 
+    Lecture 13:
+    The Declaration Tag
+    04:22 
+    Lecture 14:
+    JSP Tags Summary
+    05:42 
+    Lecture 15:
+    Model 1 vs. Model 2 Architecture
+    14:56 
+    Lecture 16:
+    Using External APIs in Web Applications
+    03:31 
+    Lecture 17:
+    The Servlet Lifecycle
+    02:44 
+
+SECTION 3 Beans and Forms
+
+    Lecture 18:
+    JSP Beans
+    10:32 
+    Lecture 19:
+    Beans and Scope
+    16:35 
+    Lecture 20:
+    Setting Bean Properties Using Parameters
+    05:57 
+    Lecture 21:
+    Forms
+    08:13 
+    Lecture 22:
+    HTTP Posts
+    05:39 
+    Lecture 23:
+    Using Beans to Store Form Data
+    11:22 
+    Lecture 24:
+    Adding Validation to Beans
+    11:55 
+    Lecture 25:
+    Self-Validating Forms
+    19:43 
+    Lecture 26:
+    Validating Forms Using MVC Architecture
+    22:14 
+
+SECTION 4 Some Useful Objects
+
+    Lecture 27:
+    The Session Object
+    11:53 
+    Lecture 28:
+    URL Rewriting: Supporting Sessions Without Cookies
+    13:23 
+    Lecture 29:
+    The Servlet Context Object
+    07:33 
+    Lecture 30:
+    Getting Initialisation Parameters from web.xml
+    04:43 
+    Lecture 31:
+    Scoped Objects Review
+    04:43 
+    Lecture 32:
+    Cookies
+    13:34 
+
+SECTION 5 Databases
+
+    Lecture 33:
+    Connecting to a Database
+    15:01 
+    Lecture 34:
+    Setting Up a JNDI Data Source
+    20:59 
+    Lecture 35:
+    Querying Databases
+    20:33 
+    Lecture 36:
+    Inserting Data Into Databases
+    09:30 
+
+SECTION 6 Sending Emails
+
+    Lecture 37:
+    Sending Emails: Prerequisites
+    04:44 
+    Lecture 38:
+    Sending Emails with the Mail API
+    16:03 
+
+SECTION 7 Simplify Your Code With JSTL
+
+    Lecture 39:
+    Beginning JSTL: Hello World JSTL
+    06:11 
+    Lecture 40:
+    Accessing Bean Values in JSTL
+    06:41 
+    Lecture 41:
+    Getting URL Parameters in JSTL
+    02:45 
+    Lecture 42:
+    The JSTL "if" Statement
+    04:27 
+    Lecture 43:
+    The Choose Tag in JSTL
+    04:46 
+    Lecture 44:
+    The foreach loop in JSTL
+    05:41 
+    Lecture 45:
+    Referencing Java Objects in JSTL
+    05:57 
+    Lecture 46:
+    JSTL Implicit Objects
+    04:01 
+    Lecture 47:
+    Using Maps in EL
+    04:11 
+    Lecture 48:
+    Outputting Variables: The c:out Tag vs. Using EL Directly
+    04:42 
+    Lecture 49:
+    forEach: Iterating Through Lists
+    07:19 
+    Lecture 50:
+    Using External Files: Graphics, CSS, etc
+    14:07 
+    Lecture 51:
+    Reusable Fragments Using JSTL c:import
+    10:24 
+    Lecture 52:
+    SQL Queries with JSTL
+    10:53 
+    Lecture 53:
+    Setting Variables in JSTL
+    07:04 
+    Lecture 54:
+    Expressions in EL
+    05:54 
+    Lecture 55:
+    Creating URLs With JSTL
+    08:01 
+    Lecture 56:
+    Wildcards and Getting a Single Row in JSTL
+    06:45 
+    Lecture 57:
+    JSTL Functions
+    10:48 
+    Lecture 58:
+    SQL Updates and Transactions in JSTL
+    11:51 
+    Lecture 59:
+    Formatting Using JSTL
+    04:02 
+    Lecture 60:
+    Custom Tags
+    15:38 
+
+SECTION 8 Source Code
+
+    Lecture 61:
+    Source Code
+    22.74 MB 
+
+SECTION 9 Where Now?
+
+    Lecture 62:
+    Some Final Words ....
+    07:44 
+
+SECTION 10 Extra!
+
+    Lecture 63:
+    Uploading Files: Allowing the User to Upload Images and Other Stuff
+    22:15 
+
